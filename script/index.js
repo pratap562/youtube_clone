@@ -1,6 +1,6 @@
 const mainDom = document.querySelector('.list-container')
 // const apikey = 'AIzaSyDnta0v3YBiwkifcwzQYHkzqvsDtk78VaA'
-const apikey = 'AIzaSyBYh8-vrq5_TTMH4DH8Wkr2aQWDK_xRnaI'
+const apikey = ''
 window.onload = () => {
     document.querySelector('.search-box>div').addEventListener('click', search)
     document.querySelector('#srch').addEventListener('keypress', (event) => {

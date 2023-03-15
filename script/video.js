@@ -3,9 +3,9 @@
 // console.log(data)
 
 {/* <iframe autoplay = 'true' allowfullscreen="true" src="https://www.youtube.com/embed/GwIo3gDZCVQ?autoplay=1&videoEmbeddable=true"></iframe> */ }
+const api_key = ''
 
-
-chanel = `https://youtube.googleapis.com/youtube/v3/channels?id=UComP_epzeKzvBX156r6pm1Q&key=AIzaSyBYh8-vrq5_TTMH4DH8Wkr2aQWDK_xRnaI`
+chanel = `https://youtube.googleapis.com/youtube/v3/channels?id=UComP_epzeKzvBX156r6pm1Q&key=${api_key}`
 
 
 const embed = () => {
